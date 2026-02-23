@@ -6,7 +6,7 @@ on:
   pull_request:
 
 env:
-  IMAGE_NAME: aileen2003/github-actions
+  IMAGE_NAME: aileen200/github-actions
 
 jobs:
   docker:
